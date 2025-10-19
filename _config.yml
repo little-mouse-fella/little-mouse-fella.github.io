@@ -35,7 +35,7 @@ plugins:
 
 # Solar theme settings
 paginate: 10
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
 # Exclude from processing.
