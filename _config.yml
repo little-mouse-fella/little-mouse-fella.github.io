@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+name: Little mouse fella
 title: Little mouse fella
 email: your-email@example.com
 description: >-
@@ -31,6 +32,11 @@ github_username:  little-mouse-fella
 theme: minima
 plugins:
   - jekyll-feed
+
+# Solar theme settings
+paginate: 10
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
 # Exclude from processing.
 # The following items will not be processed, by default.
