@@ -44,7 +44,9 @@ blockquote {
 #footer {
 	border-color: #073642;
 }
-
+img {
+  max-width: 100%;
+}
 
 
 /*** Pygments ***/
