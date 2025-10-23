@@ -1,3 +1,4 @@
+I wrote most of these over a year ago.
 ## But then face to face
 What should you call it when<br>
 you no longer pine-sigh after life-after-life<br>
