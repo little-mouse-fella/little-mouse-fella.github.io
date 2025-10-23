@@ -1,4 +1,4 @@
-# But then face to face
+## But then face to face
 What should you call it when<br>
 you no longer pine-sigh after life-after-life<br>
 and death's Great Audit, once urgent, is warmly arms-length<br>
@@ -12,14 +12,14 @@ those you love,<br>
    only vows *to* them, forever<br>
 Unsure what to call life after church, but it's<br>
 how I'd pictured Heaven
-# Shadows lengthen on my faith
+## Shadows lengthen on my faith
 Inedible, undrinkable, unwatchable, unthinkable;<br>
 humanity’s a-writhing;<br>
 I want my life <br>
 to come together, <br>
 just like in the Bible.<br>
 
-# This is how I left God
+## This is how I left God
 To bed!<br>
 A worried child will wipe the floor in negotiation and
 some nights my son\'s one, persistent-politely pleading for a<br>
@@ -43,10 +43,9 @@ He asks me to pray for monster trucks thrice and<br>
 wilfully mop myself out the door.<br>
 
 This is how I left God--<br>
-   not in the living room counting nighttime hours, like a teen's<br>
-   beleaguered parent<br>
-   not calling my lost name over the grocery store speakers<br>
-not like my son on insatiable days,<br>
+&nbsp;&nbsp; not in the living room counting nighttime hours,<br>
+&nbsp;&nbsp; not calling my lost name over the grocery store speakers<br>
+&nbsp;&nbsp; not like my son on insatiable days,<br>
 but after the story and the wrestle,<br>
 leading Him, at His bidding,<br>
-to bed.<br>
+to bed.
