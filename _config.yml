@@ -22,7 +22,7 @@ name: Little mouse fella
 title: Little mouse fella
 email: your-email@example.com
 description: >-
-  A few thoughts of mine, I being a lil mouse
+  A few thoughts of mine
 baseurl: "" # the subpath of the site, e.g. /blog
 url: "" # the base hostname & protocol for the site, e.g. http://example.com
 twitter_username: LilMouseFella
