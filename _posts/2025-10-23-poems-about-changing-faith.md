@@ -11,7 +11,7 @@ no longer intermittent staccato<br>
 and you have no vow to change<br>
 those you love,<br>
    only vows *to* them, forever<br>
-Unsure what to call life after church, but it's<br>
+Unsure what to call life after faith, but it's<br>
 how I'd pictured Heaven
 ## Shadows lengthen on my faith
 Inedible, undrinkable, unwatchable, unthinkable;<br>
