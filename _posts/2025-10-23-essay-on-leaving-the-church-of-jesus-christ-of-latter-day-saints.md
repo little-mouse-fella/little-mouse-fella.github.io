@@ -23,7 +23,7 @@ Or, sometimes, an actual component is needed. Some tactile idea to fit into the 
 
 But that “polygamy” part of the engine is going to keep giving trouble. It’ll bring you back into the shop again and again. And maybe that’s okay. Maybe that’s what faith looks like: always searching. Always repairing.
 
-Always figuring _why_ this bizarre, incongruous, occasionally sublime thing is true.
+Always figuring _why_ this bizarre, incongruous, holy thing is true.
 
 –
 
