@@ -1,10 +1,9 @@
-*Nature*
+## Nature
 Forgive me for my elder years
-they’ll probably be awful.
-I’ll probably complain and suffer and make you feel like shit sometimes.
-Forgive me for my ailing brain. I used to love you better.
-Forgive me for all of that when it comes around. I’ll do my best, but I really
-can’t promise anything. Some things just happen that way; kind people die mean.,
+I'll probably be awful.
+Complain and suffer and make you feel like shit.
+Forgive me for my ailing brain; I used to love you better.
+Some things just happen that way; some people die mean.
 
 I’m guessing that, before our phones (these new ones with the latest, worst version of the internet on them), we used to be more connected to the places we lived. The hard distinction between person and neighbor, and the ways you manage to get along together, were not always encourage, but they were defined. Now it seems like we have no way of relating to each other, even by way of quarreling. There used to be a kind of neighborly fight that dragged on, but in a good way—people reasoned and begged out their efforts to relate to the people around them in some way. At least, I think we did. Now, anyways, our experience of the world is heavily colored by our personally most revenue-generating algorithm, and we get this idea of the world that’s unrelated to the community we live in. What scares me most is that many people don’t seem to understand how susceptible they are to propaganda. 
 
@@ -12,9 +11,8 @@ I said, “I love this beer,” and
 she goes, “Yes, you bring it to your 
 lips and it kisses you back, slowly.”
 
-How to make peace with the religion of your upbringing
-
-Don’t try to. Pay attention to the pangs and unsanded edges of it. Be bewildered when “I’m praying for you in the temple” begins to sound like a  “❤️” reaction compared to love. Follow the urge to change her contact from “Mom” to “<first><last>”. 
+## How to make peace with the religion of your upbringing
+Don’t try to. Pay attention to the pangs and unsanded edges of it. Be bewildered when “I’m praying for you in the temple” begins to sound like a  “❤️” reaction compared to love. Follow the urge to change her contact from “Mom” to “\<first>\<last>”. 
 Weather this without shame, and you’ll begin to see her endearing quirks and feel kinship in your parenthood
 
 ## Happiness is something that occurs to you
@@ -26,7 +24,7 @@ that jotted this note down.
 
 I want to finish my life on a good thought
 
-The self is a collection of touchstones
+The self's a collection of touchstones
 
 I took a long walk, then put the cat to sleep on the cat tree.
 She fell asleep with me scratching her neck. she didn’t lift her head when I 
