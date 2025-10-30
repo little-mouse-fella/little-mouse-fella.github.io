@@ -1,5 +1,4 @@
-## CHAPTER 4
-*The meaning of a symbol is what it can do.*
+## CHAPTER 1: The meaning of a symbol is what it can do
 
 1 Someday I’ll look back on the delicious *feel* of my nighttime walks. But tonight people like ghosts follow me and cross my path. I feel out of step and ill-at-ease right now. Life isn’t experienced as a passive movie for *anyone*. 
 
