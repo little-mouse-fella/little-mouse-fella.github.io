@@ -1,3 +1,7 @@
+---
+title: Git history
+---
+
 git-screenshot-contents.png
 
 ![Git screenshot contents](/assets/images/git-screenshot-contents.png "Screenshot of an Azure DevOps repo, navigated onto the previous version of this png file, which likewise shows previous versions recursively")

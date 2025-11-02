@@ -1,3 +1,6 @@
+---
+title: Poems about changing faith
+---
 I wrote most of these over a year ago.
 ## But then face to face
 What should you call it when<br>

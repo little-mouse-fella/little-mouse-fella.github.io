@@ -1,3 +1,7 @@
+---
+title: Essay on leaving the Church of Jesus Christ of Latter-day Saints
+---
+
 Wrote this a couple years ago.
 ## I’m Ready
 How do I know that I’m ready to write about it? Because I need to write about it. Writing about it is now what I have to do, to get to the next stage.
