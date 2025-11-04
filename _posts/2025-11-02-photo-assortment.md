@@ -1,7 +1,6 @@
 ---
 title: Photo assortment
 ---
-
 Blackberry being so snuggly and drooling all over:
 
 ![cat-drool-3](/assets/images/cat-drool-3.jpeg "Blackberry being so snuggly and drooling all over 1")
