@@ -1,9 +1,7 @@
 ---
 title: Photo assortment
 ---
-Blackberry being so snuggly and drooling all over:
 
-![cat-drool-3](/assets/images/cat-drool-3.jpeg "Blackberry being so snuggly and drooling all over 1")
 
 iPad doodle from a few months ago:
 
@@ -17,17 +15,9 @@ Julien Baker as Christ from about a year ago:
 
 ![cat-drool-3](/assets/images/IMG_0604.jpeg "Blackberry being so snuggly and drooling all over 1")
 
-An awesome fat spider on our porch:
-
-![fat-spiderr](/assets/images/fat-spider.jpeg "fat spider")
-
 He must feel so exposed:
 
 ![bald-mario-hat](/assets/images/bald-mario-hat.jpeg "bald-mario-hat")
-
-Positive:
-
-![covid-positive](/assets/images/covid-positive.jpeg "covid-positive")
 
 Decaying foil on my lasagna:
 
