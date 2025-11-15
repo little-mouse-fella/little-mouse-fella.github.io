@@ -2,52 +2,52 @@
 title: Eclectic poem
 ---
 ## You deranged automaton
-Crisping dunes of pastry leaves,
-smoking on a walk,
-like baklava after summer's work,
-potluck after three-hour block.
+Crisping dunes of pastry leaves,<br>
+smoking on a walk,<br>
+like baklava after summer's work,<br>
+potluck after three-hour block.<br>
 
-I need to realize some next thing, but
+I need to realize some next thing, but<br>
 
-everything occurs to me;
-no thought is my own;
-unless you count me as the brain
-that jots a poem down.
+everything occurs to me;<br>
+no thought is my own;<br>
+unless you count me as the brain<br>
+that jots a poem down.<br>
 
-I want to be forgotten--
-I strain for dim next days--
-I‘ll take after the cotton, and
-blindly float away.
+I want to be forgotten--<br>
+I strain for dim next days--<br>
+I‘ll take after the cotton, and<br>
+blindly float away.<br>
 
-So I go on these walks in the evening,
-and bring my relaxing vice
-and mentally meander the past few weeks, 
-see which mind-states preceded which.
+So I go on these walks in the evening,<br>
+and bring my relaxing vice<br>
+and mentally meander the past few weeks, <br>
+see which mind-states preceded which.<br>
 
-Sometimes I find
-a perfectly friendly place to sit down, and I’ll just 
-think about my fallout with my mom.
-Intentions are just imagined memories of plans, now. 
-Pain's a persistent interruption, a stuckness.
+Sometimes I find<br>
+a perfectly friendly place to sit down, and I’ll just <br>
+think about my fallout with my mom.<br>
+Intentions are just imagined memories of plans, now. <br>
+Pain's a persistent interruption, a stuckness.<br>
 
-Cutting through thick-laced memory foam,
-figures appear like trees, and
-a stark thing like blame emerges;
-he's comfortable, at home.
+Cutting through thick-laced memory foam,<br>
+figures appear like trees, and<br>
+a stark thing like blame emerges;<br>
+he's comfortable, at home.<br>
 
-But I've comfort in that we've a difference--
+But I've comfort in that we've a difference--<br>
 
-I’ve become a pet person, and now
-ascribe animal people good character.
-When you’re generous in assigning experience
-to the creatures around you, you’re probably partial to protecting.
+I’ve become a pet person, and now<br>
+ascribe animal people good character.<br>
+When you’re generous in assigning experience<br>
+to the creatures around you, you’re probably partial to protecting.<br>
 
-My cat's furtive glances, with-
-drawal, her misinterpreting of signals, the odd 
-moment of deep connection, the oddness of connection—
-she lives out that banal essence of romance.
+My cat's furtive glances, with-<br>
+drawal, her misinterpreting of signals, the odd <br>
+moment of deep connection, the oddness of connection—<br>
+she lives out that banal essence of romance.<br>
 
-The self is many touchstones,
-repeated neural knots.
-I really hope when it’s my time
-I end on a good thought.
+The self is many touchstones,<br>
+repeated neural knots.<br>
+I really hope when it’s my time<br>
+I end on a good thought.<br>
