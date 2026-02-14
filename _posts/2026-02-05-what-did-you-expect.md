@@ -1,41 +1,35 @@
 # What did you expect?<br>
 
-Cramped dim halls + stretched-out walls<br>
+Cramped dim halls and stretched-out walls<br>
 and closed-up shower curtains;<br>
-lights that strobe 'til I look<br>
+lights that strobe until I look<br>
 transmit Lynchian violence.<br>
-—simply want existence,<br>
+We simply want existence,<br>
 and perchance benevolence.<br>
 
-The nice bowl's a puke bowl<br>
+The nice bowl is a puke bowl<br>
 since I bought one that's better.<br>
 
-Let’s take a seat, let’s rest our feet<br>
+Let’s take a seat, rest our feet<br>
 on stools with colored cushions;<br>
 
-let’s greet and chat until I know<br>
+greet and chat until I know<br>
 exactly what you’re saying.<br>
 The year's unknown until it's passed<br>
-through layers of our talking. <br>
-<br>
-There’s grounding in horror<br>
-and there’s pain in letting go—<br>
+through layers of our talking.<br>
 
-peering deeply into<br>
-midnight on your moonless night.<br>
-
-—want to be forgotten<br>
+I want to be forgotten<br>
 and so strain for dim next days<br>
-—take after—the cotton<br>
-and as-blind-ly-float-a-way.<br>
+I'll take after the cotton<br>
+and as blindly float away.<br>
 
-From first principles I'm<br>
+From first principles I am<br>
 learning heroics from those<br>
 
 untold cells that birthed me--<br>
 living for my own loves.<br>
 
-The self's made of touchstones,<br>
+The self is many touchstones,<br>
 daily-scheduled neural knots--<br>
-here's hoping, come my time<br>
-it all ends on a good thought.<br>
+I hope to god when it's my time<br>
+I end on a good thought.<br>
