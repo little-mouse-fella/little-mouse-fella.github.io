@@ -4,8 +4,9 @@ Cramped dim halls and stretched-out walls<br>
 and closed-up shower curtains;<br>
 lights that strobe until I look<br>
 transmit Lynchian violence.<br>
-We simply want existence,<br>
-and perchance benevolence.<br>
+
+Humans just want to exist<br>
+and yet be benevolent.<br>
 
 The nice bowl is a puke bowl<br>
 since I bought one that's better.<br>
@@ -19,9 +20,9 @@ The year's unknown until it's passed<br>
 through layers of our talking.<br>
 
 I want to be forgotten<br>
-and so strain for dim next days<br>
+and I strain for dim next days<br>
 I'll take after the cotton<br>
-and as blindly float away.<br>
+and I'll blindly float away.<br>
 
 From first principles I am<br>
 learning heroics from those<br>
@@ -31,5 +32,5 @@ living for my own loves.<br>
 
 The self is many touchstones,<br>
 daily-scheduled neural knots--<br>
-I hope to god when it's my time<br>
+I do hope when it's my time<br>
 I end on a good thought.<br>
